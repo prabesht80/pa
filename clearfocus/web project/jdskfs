@@ -1,0 +1,17 @@
+<div class="menu_nav">
+        
+        <ul>
+          <li class="active"><a href="web project/index.html">Home</a></li>
+          <li><a href="web project/login.html">JOIN</a></li>
+          <li><a href="web project/learn more.html">About Us</a></li>
+          
+          <li><a href="#">HELP THE CAUSE</a></li>
+        </ul>
+      </div>
+
+
+
+      /* header */
+.header { background:url(original.jpg) repeat-x top;}
+.header_resize { margin:0 auto; padding:0; width:970px; height:381px; background:url(gettyimages-11330228481_0.jpg) no-repeat center bottom;}
+.header .logo { padding-left:40px; float:left; width:auto;}
